@@ -1,3 +1,3 @@
 # Shark-Tank-2024-DA-SQL
 ## Project Objective 
-I write sql query to get insigts from that shark tank dataset which i gather this data from 2024 dataset , i trying to get the information form that here i wrote so many query and used complex fomulas like widos funciton,join , cte, squbquery, having , group by , aggregate function etc. 
+I worked on the Shark Tank 2024 dataset that I collected, and wrote several SQL queries to generate insights. While analyzing the data, I applied a variety of advanced SQL techniques such as window functions, joins, CTEs, subqueries, HAVING clauses, GROUP BY, and aggregate functions. This allowed me to extract meaningful patterns and trends from the dataset.
