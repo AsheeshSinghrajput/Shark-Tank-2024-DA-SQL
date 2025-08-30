@@ -20,3 +20,8 @@ I worked on the Shark Tank 2024 dataset that I collected, and wrote several SQL 
 - Question 16. From which location are participants coming the most?
 - Question 17. Which sector deals are most  successful?
 - Question 18. How many partners deal happened solo and combined?
+
+## Solutions 
+To find the solution I write these queries. Kindly read that 
+
+-<a href="https://github.com/AsheeshSinghrajput/Shark-Tank-2024-DA-SQL/blob/main/Shark%20Tank%20.sql">SQL-Code</a>
