@@ -30,3 +30,8 @@ To find the solution I write these queries. Kindly read that
 
 -<a href="https://github.com/AsheeshSinghrajput/Shark-Tank-2024-DA-SQL/blob/main/SHRK%20TANK%20DATA%20ANALYSIS.xlsx">SQL-Data-Visualize</a>
 
+## Work's Sample 
+
+<img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/0772e46e-94ea-4604-9f91-482ae7a17b35" />
+
+
