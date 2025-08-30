@@ -24,4 +24,9 @@ I worked on the Shark Tank 2024 dataset that I collected, and wrote several SQL 
 ## Solutions 
 To find the solution I write these queries. Kindly read that 
 
+-<a href="https://github.com/AsheeshSinghrajput/Shark-Tank-2024-DA-SQL/blob/main/SHARK%20TANK%20DATA.xlsx">SQL-Database</a>
+
 -<a href="https://github.com/AsheeshSinghrajput/Shark-Tank-2024-DA-SQL/blob/main/Shark%20Tank%20.sql">SQL-Code</a>
+
+-<a href="https://github.com/AsheeshSinghrajput/Shark-Tank-2024-DA-SQL/blob/main/SHRK%20TANK%20DATA%20ANALYSIS.xlsx">SQL-Data-Visualize</a>
+
